@@ -427,5 +427,52 @@
       "3": "viveksahu1762@gmail.com",
       "4": "50000000000000000000"
     }
+  },
+  {
+    "transactionHash": "0x4bbfb91a420b9a855ec43131ecfa0c179d1981e41585f79e130b0ac791b7721b",
+    "blockNumber": 18153532,
+    "eventName": "BetPlaced",
+    "args": {
+      "0": "14",
+      "1": "0x1950498e95274Dc79Fbca238C2BE53684D69886F",
+      "2": "devmodiji",
+      "3": "swayamkarle2@gmail.com",
+      "4": "10000000000000000000"
+    }
+  },
+  {
+    "transactionHash": "0x2329437e29c2e152fc1ec158b794fd9ac41239cf4ea24deb2c15813d23bddd1f",
+    "blockNumber": 18153764,
+    "eventName": "BetPlaced",
+    "args": {
+      "0": "14",
+      "1": "0x1950498e95274Dc79Fbca238C2BE53684D69886F",
+      "2": "CertifyBlocks",
+      "3": "0xswayam@gmail.com",
+      "4": "100000000000000000000"
+    }
+  },
+  {
+    "transactionHash": "0x5e73c096cc04aa5698a200af8d686eeaa037acc03786bc5bf70f45c4676b9317",
+    "blockNumber": 18153835,
+    "eventName": "BetCreated",
+    "args": {
+      "0": "15",
+      "1": "20000000000000000000",
+      "2": "DevModiji",
+      "3": "0x1950498e95274Dc79Fbca238C2BE53684D69886F",
+      "4": "1738032457",
+      "5": "eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjoiMHgxOTUwNDk4ZTk1Mjc0RGM3OUZiY2EyMzhDMkJFNTM2ODRENjk4ODZGIiwiZXhwIjoxNzM4MTA0MzM3fQ.SBv_zFvSO60pX5hZb3J0GXPRw4YYjYotyoHyZi5ikLc",
+      "6": "swayamkarle2@gmail.com"
+    }
+  },
+  {
+    "transactionHash": "0xf31faa4c33e5d0c5c778ccda6dd4c4c95b0f2ae2961c3b0850c30ee86f7cb905",
+    "blockNumber": 18153840,
+    "eventName": "BetActivated",
+    "args": {
+      "0": "15",
+      "1": "bafkreidxt7iokvhzcvm4vjxerownqjqihseskdccdmoep6kewudd4mnjdi"
+    }
   }
 ]
